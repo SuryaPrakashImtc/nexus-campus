@@ -5,8 +5,9 @@
   "description": "Nexus Campus — high-fidelity clickable prototype for Meridian University's unified student journey platform.",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host 0.0.0.0 --port 3000",
     "build": "vite build",
+    "lint": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {

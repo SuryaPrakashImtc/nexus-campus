@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Campus",
+  "description": "One platform. Every student journey. A unified university ERP experience for Meridian University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
